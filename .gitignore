@@ -1,0 +1,20 @@
+# ESP32 local credentials
+firmware/esp32/config.h
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PlatformIO / Arduino local build outputs
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
